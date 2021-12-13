@@ -1,3 +1,5 @@
+//adcionado novas alterações
+
 import React from 'react';
 import {AppRegistry,
   StyleSheet,
